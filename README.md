@@ -200,14 +200,6 @@ I love simplifying complex legacy systems into clean, modern architectures 🚀
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Yashwantbadhe2401&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Yashwantbadhe2401&icon=2&color=12" />
 </p>
